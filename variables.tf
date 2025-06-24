@@ -7,3 +7,8 @@ variable "user_email" {}
 variable "user_login" {}
 variable "user_firstname" {}
 variable "user_lastname" {}
+
+
+######## Okta Group Management Module #######
+variable "group_name" {}
+variable "group_description" {}
