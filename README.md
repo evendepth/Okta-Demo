@@ -34,7 +34,7 @@ The goal of this project is to **eliminate repetitive manual provisioning tasks*
 ## 🌐 Connect with Me
 
 👨‍💻 **Deepak Chauhan**  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/deepakdevopsx/] (https://www.linkedin.com/in/deepakdevopsx/)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/deepakdevopsx/](https://www.linkedin.com/in/deepakdevopsx/)
 📧 **Email**: [deepak@evendepth.com](mailto:deepak@evendepth.com)  
 🌍 **Company**: [EvenDepth Technologies LLP](https://evendepth.com)
 
