@@ -2,13 +2,18 @@
 
 ## 📽️ Watch the Full Walkthrough
 
-[![Stop Creating Okta Users Manually](https://i.ytimg.com/vi/C-X1bmBzJFY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDSWuvEr9Y8_peAbHc7FXlJDmh3RA)](https://www.youtube.com/embed/C-X1bmBzJFY?list=PLLioQlsd6xswPYJP8FHFAlyQ71RTph12Y)
+## 📽️ Watch the Full Walkthrough
 
-[![What Happens If You Terraform Okta Groups? | Automate Group Creation + User Membership](https://i.ytimg.com/vi/XOT8QTJVSjY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDSWuvEr9Y8_peAbHc7FXlJDmh3RA)](https://www.youtube.com/embed/XOT8QTJVSjY?list=PLLioQlsd6xswPYJP8FHFAlyQ71RTph12Y)
+| User Creation with Terraform | Group Creation & Membership Automation |
+|-----------------------------|----------------------------------------|
+| [![Stop Creating Okta Users Manually](https://i.ytimg.com/vi/C-X1bmBzJFY/hqdefault.jpg)](https://www.youtube.com/watch?v=C-X1bmBzJFY) | [![What Happens If You Terraform Okta Groups?](https://i.ytimg.com/vi/XOT8QTJVSjY/hqdefault.jpg)](https://www.youtube.com/watch?v=XOT8QTJVSjY) |
 
-🎬 **Title**: _Stop Creating Okta Users Manually – Automate with Terraform Like an Architect_  
-📺 **Watch on YouTube Users Creation** → [Click here to view the full video](https://youtu.be/C-X1bmBzJFY?si=yKJdaxH5kAgQdOsf)  
-📺 **Watch on Groups Creation and Membership Automation** → [Click here to view the full video](https://youtu.be/XOT8QTJVSjY?si=bHcYyJbicNdVI0I)  
+🎬 **Title 1**: _Stop Creating Okta Users Manually – Automate with Terraform Like an Architect_  
+📺 [Watch on YouTube](https://youtu.be/C-X1bmBzJFY?si=yKJdaxH5kAgQdOsf)
+
+🎬 **Title 2**: _What Happens If You Terraform Okta Groups? | Automate Group Creation + User Membership_  
+📺 [Watch on YouTube](https://youtu.be/XOT8QTJVSjY?si=bHcYyJbicNdVI0I)
+
 🔗 **Subscribe** to my channel → [@drkloud](https://www.youtube.com/@drkloud)
 
 ---
