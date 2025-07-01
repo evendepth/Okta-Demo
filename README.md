@@ -5,7 +5,8 @@
 [![Stop Creating Okta Users Manually](https://i.ytimg.com/vi/C-X1bmBzJFY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDSWuvEr9Y8_peAbHc7FXlJDmh3RA)](https://www.youtube.com/embed/C-X1bmBzJFY?list=PLLioQlsd6xswPYJP8FHFAlyQ71RTph12Y)
 
 🎬 **Title**: _Stop Creating Okta Users Manually – Automate with Terraform Like an Architect_  
-📺 **Watch on YouTube** → [Click here to view the full video](https://youtu.be/C-X1bmBzJFY?si=yKJdaxH5kAgQdOsf)  
+📺 **Watch on YouTube Users Creation** → [Click here to view the full video](https://youtu.be/C-X1bmBzJFY?si=yKJdaxH5kAgQdOsf)  
+📺 **Watch on Groups Creation and Membership Automation ** → [Click here to view the full video](https://youtu.be/XOT8QTJVSjY?si=bHcYyJbicNdVI0I)  
 🔗 **Subscribe** to my channel → [@drkloud](https://www.youtube.com/@drkloud)
 
 ---
