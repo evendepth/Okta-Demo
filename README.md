@@ -2,8 +2,6 @@
 
 ## 📽️ Watch the Full Walkthrough
 
-## 📽️ Watch the Full Walkthrough
-
 | User Creation with Terraform | Group Creation & Membership Automation |
 |-----------------------------|----------------------------------------|
 | [![Stop Creating Okta Users Manually](https://i.ytimg.com/vi/C-X1bmBzJFY/hqdefault.jpg)](https://www.youtube.com/watch?v=C-X1bmBzJFY) | [![What Happens If You Terraform Okta Groups?](https://i.ytimg.com/vi/XOT8QTJVSjY/hqdefault.jpg)](https://www.youtube.com/watch?v=XOT8QTJVSjY) |
